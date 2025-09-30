@@ -1,9 +1,19 @@
-<h1 align="center"><b>Hi , I'm Agustin Ramirez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
+<h3 align="center">
+  Hi, I'm Agustin Ramirez
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Analyst%20Student"></a>
+</p>
 
-## About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🙋About Me
 
 I'm 19 years old, a second-year **Systems Analyst student** from Argentina.  
 Currently learning **Angular, C# .NET, and MySQL**, applying my knowledge in **personal and academic projects**.  
@@ -14,8 +24,8 @@ I enjoy building practical solutions and expanding my skills.
 
 <h4> Languages </h4>
 <span> 
-  <img src ="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src ="https://img.shields.io/badge/c%23-5C2D91.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 </span>
 <h4> Other Tools and Technologies</h4>
@@ -34,7 +44,7 @@ I enjoy building practical solutions and expanding my skills.
   </span>
 
 ## 🎵 Outside Tech
-- 🎸 Guitar & 🏀 Sports — 
+- 🎸 I Like to Play The Guitar & 🏀 Sports
 
 ---
 

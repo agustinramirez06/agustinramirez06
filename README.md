@@ -20,35 +20,34 @@ Currently learning **Angular, C# .NET, and MySQL**, applying my knowledge in **p
 I enjoy building practical solutions and expanding my skills.
 
 ---
-## 💻 My Skills Include
 
-<h4> Languages </h4>
-<span> 
-  <img src ="https://img.shields.io/badge/c%23-5C2D91.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.&logoColor=white">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-</span>
-<h4> Other Tools and Technologies</h4>
-<span>
-  <img src ="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-</span>
----
+## 🛠 &nbsp;Tech Stack
+
+## 👨‍💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,js,html,css)](https://skillicons.dev)
+
+## 📚Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet)](https://skillicons.dev)
+
+## 🔧 Tools
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,visualstudio,vscode,figma)](https://skillicons.dev)
 
 ## 🤖 Artificial Intelligence and Bots
-<span>
- <img src ="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white">
-  <img src = "https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
-  </span>
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHubCopilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/notebookLM-000000?style=for-the-badge&logo=notebookLM&logoColor=white)
+![gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 ## 🎵 Outside Tech
+
 - 🎸 I Like to Play The Guitar & 🏀 Sports
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 - Email: **agustin06ramirez@gmail.com**  
 - LinkedIn: [Your LinkedIn link here]  
 

@@ -47,12 +47,6 @@ I enjoy building practical solutions and expanding my skills.
 
 ---
 
-## 📫 Contact Me
-- Email: **agustin06ramirez@gmail.com**  
-- LinkedIn: [Your LinkedIn link here]  
-
----
-
 ## 📊 Github Stats
 ![Agustin GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinramirez06&show_icons=true&theme=tokyonight)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=agustinramirez06&theme=material-palenight)](https://github.com/agustinramirez06)

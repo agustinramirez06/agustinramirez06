@@ -15,8 +15,8 @@
 
 ## 🙋About Me
 
-I'm 19 years old, a second-year **Systems Analyst student** from Argentina.  
-Currently learning **Angular, C# .NET, and MySQL**, applying my knowledge in **personal and academic projects**.  
+I'm 20 years old, a third-year **Systems Analyst student** from Argentina.  
+Currently learning **JAVA,HTML,CSS,JavaScript and SQL**, applying my knowledge in **personal and academic projects**.  
 I enjoy building practical solutions and expanding my skills.
 
 ---
@@ -24,11 +24,11 @@ I enjoy building practical solutions and expanding my skills.
 ## 🛠 &nbsp;Tech Stack
 
 ## 👨‍💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css)](https://skillicons.dev)
 
 ## 📚Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 
 ## 🔧 Tools
 
